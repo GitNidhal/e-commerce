@@ -1,0 +1,31 @@
+.main-footer {
+    color: rgb(233, 230, 231);
+    background-color: #161616;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  h2{
+color: #ffc000;
+
+display: flex;
+justify-content: center;
+  }
+  li {
+    color: aliceblue;
+    
+    display: flex;
+    justify-content: center;
+  }
+  p{
+    color: aliceblue;
+    
+    display: flex;
+    justify-content: center;
+  }
+  .linked{
+    text-decoration: none;
+  }

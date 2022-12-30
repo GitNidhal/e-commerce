@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "It's an project for getting certification",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nidhal Rebhi",
+  "license": "ISC",
+  "dependencies": {
+    "cdbreact": "^1.5.3"
+  }
+}
